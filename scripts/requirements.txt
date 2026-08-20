@@ -1,0 +1,9 @@
+# === Daily automation (lightweight — used by GitHub Actions) ===
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# === Portrait-only (heavy — run once locally when you change your photo) ===
+pillow
+numpy
+opencv-python
+rembg[cpu]

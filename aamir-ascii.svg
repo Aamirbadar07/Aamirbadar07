@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.0 587.5" width="430" height="588">
+<style>
+  text.ascii-row {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 7px;
+    fill: #c9d1d9;
+    white-space: pre;
+    opacity: 0;
+    animation-name: wipe;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+  }
+  @keyframes wipe {
+    0%   { clip-path: inset(0 100% 0 0); opacity: 1; }
+    100% { clip-path: inset(0 0% 0 0);   opacity: 1; }
+  }
+  .r0 { animation-delay: 0.000s; }
+  .r1 { animation-delay: 0.040s; }
+  .r2 { animation-delay: 0.080s; }
+  .r3 { animation-delay: 0.120s; }
+  .r4 { animation-delay: 0.160s; }
+  .r5 { animation-delay: 0.200s; }
+  .r6 { animation-delay: 0.240s; }
+  .r7 { animation-delay: 0.280s; }
+  .r8 { animation-delay: 0.320s; }
+  .r9 { animation-delay: 0.360s; }
+  .r10 { animation-delay: 0.400s; }
+  .r11 { animation-delay: 0.440s; }
+  .r12 { animation-delay: 0.480s; }
+  .r13 { animation-delay: 0.520s; }
+  .r14 { animation-delay: 0.560s; }
+  .r15 { animation-delay: 0.600s; }
+  .r16 { animation-delay: 0.640s; }
+  .r17 { animation-delay: 0.680s; }
+  .r18 { animation-delay: 0.720s; }
+  .r19 { animation-delay: 0.760s; }
+  .r20 { animation-delay: 0.800s; }
+  .r21 { animation-delay: 0.840s; }
+  .r22 { animation-delay: 0.880s; }
+  .r23 { animation-delay: 0.920s; }
+  .r24 { animation-delay: 0.960s; }
+  .r25 { animation-delay: 1.000s; }
+  .r26 { animation-delay: 1.040s; }
+  .r27 { animation-delay: 1.080s; }
+  .r28 { animation-delay: 1.120s; }
+  .r29 { animation-delay: 1.160s; }
+  .r30 { animation-delay: 1.200s; }
+  .r31 { animation-delay: 1.240s; }
+  .r32 { animation-delay: 1.280s; }
+  .r33 { animation-delay: 1.320s; }
+  .r34 { animation-delay: 1.360s; }
+  .r35 { animation-delay: 1.400s; }
+  .r36 { animation-delay: 1.440s; }
+  .r37 { animation-delay: 1.480s; }
+  .r38 { animation-delay: 1.520s; }
+  .r39 { animation-delay: 1.560s; }
+  .r40 { animation-delay: 1.600s; }
+  .r41 { animation-delay: 1.640s; }
+  .r42 { animation-delay: 1.680s; }
+  .r43 { animation-delay: 1.720s; }
+  .r44 { animation-delay: 1.760s; }
+  .r45 { animation-delay: 1.800s; }
+  .r46 { animation-delay: 1.840s; }
+  .r47 { animation-delay: 1.880s; }
+  .r48 { animation-delay: 1.920s; }
+  .r49 { animation-delay: 1.960s; }
+  .r50 { animation-delay: 2.000s; }
+  .r51 { animation-delay: 2.040s; }
+  .r52 { animation-delay: 2.080s; }
+  .r53 { animation-delay: 2.120s; }
+  .r54 { animation-delay: 2.160s; }
+  .r55 { animation-delay: 2.200s; }
+  .r56 { animation-delay: 2.240s; }
+  .r57 { animation-delay: 2.280s; }
+  .r58 { animation-delay: 2.320s; }
+  .r59 { animation-delay: 2.360s; }
+  .r60 { animation-delay: 2.400s; }
+  .r61 { animation-delay: 2.440s; }
+  .r62 { animation-delay: 2.480s; }
+  .r63 { animation-delay: 2.520s; }
+  .r64 { animation-delay: 2.560s; }
+  .r65 { animation-delay: 2.600s; }
+  .r66 { animation-delay: 2.640s; }
+  .r67 { animation-delay: 2.680s; }
+  .r68 { animation-delay: 2.720s; }
+  .r69 { animation-delay: 2.760s; }
+  .r70 { animation-delay: 2.800s; }
+  .r71 { animation-delay: 2.840s; }
+  .r72 { animation-delay: 2.880s; }
+  .r73 { animation-delay: 2.920s; }
+  .r74 { animation-delay: 2.960s; }
+  .r75 { animation-delay: 3.000s; }
+  .r76 { animation-delay: 3.040s; }
+</style>
+<text x="5" y="7.5" class="ascii-row r0" xml:space="preserve">                                        `:-===+==---`.:`.:-::`..                                    </text>
+<text x="5" y="15.0" class="ascii-row r1" xml:space="preserve">                                      .---+*****ccc********++**+=-.                                 </text>
+<text x="5" y="22.5" class="ascii-row r2" xml:space="preserve">                                  ::`-==c#%%####ssss#ss#sss+**cc*=-`                                </text>
+<text x="5" y="30.0" class="ascii-row r3" xml:space="preserve">                                `++=*cs%@%%#%#sssc**css#%%s+*+cc+=+=:`                              </text>
+<text x="5" y="37.5" class="ascii-row r4" xml:space="preserve">                               `*=-=c#%###s###scccsccss%%sc*css*++===-`                             </text>
+<text x="5" y="45.0" class="ascii-row r5" xml:space="preserve">                               -c+*c####%%%####ssccssss#c**csccc*c*c*++==+=`-`                      </text>
+<text x="5" y="52.5" class="ascii-row r6" xml:space="preserve">                               -c**c##%%%%%%%%###scc*****ccccccs#ccscc*cs*=`=-                      </text>
+<text x="5" y="60.0" class="ascii-row r7" xml:space="preserve">                             .`:*c*s#%%%%%%%#####ssssssssscccc*cccccsc*c*+**-`                      </text>
+<text x="5" y="67.5" class="ascii-row r8" xml:space="preserve">                             ``-*ccs%%%%%%%%%%%%%%%%##ssssssccccccs##cs*cccc-`                      </text>
+<text x="5" y="75.0" class="ascii-row r9" xml:space="preserve">                              ``*###%%#scccccccccs##sss#%###sssss#%#s#s##c*+=-`                     </text>
+<text x="5" y="82.5" class="ascii-row r10" xml:space="preserve">                              .:*%%#sc+=+++++++++++*+*++******cscscs#%%%sc*+*-                      </text>
+<text x="5" y="90.0" class="ascii-row r11" xml:space="preserve">                             .-csss*+====----:--:::--------------=-=s%%s+**==-..                    </text>
+<text x="5" y="97.5" class="ascii-row r12" xml:space="preserve">                            .=sc*cc*===---:::````````::````````````:=#c+*++*+-:`                    </text>
+<text x="5" y="105.0" class="ascii-row r13" xml:space="preserve">                           .=sscssc*+=----:::`````````````.``...`..`-**+ssc**=:                     </text>
+<text x="5" y="112.5" class="ascii-row r14" xml:space="preserve">                           =s##%%%s*+=----:::`````````````````..`..`-**++cc*=-:                     </text>
+<text x="5" y="120.0" class="ascii-row r15" xml:space="preserve">                          `s%%%%%%#*+==---::```````````::``````````:++*++*c+++`                     </text>
+<text x="5" y="127.5" class="ascii-row r16" xml:space="preserve">                          .c@#s#%#*+===--:::``.....`````````````:::``:+c++**+:                      </text>
+<text x="5" y="135.0" class="ascii-row r17" xml:space="preserve">                           `*#css=-==----::``........````````::::`....`=**++c`                      </text>
+<text x="5" y="142.5" class="ascii-row r18" xml:space="preserve">                             *#s=`--=+*cccc*c*+=-:```::=+++++****+:... .*sc*=                       </text>
+<text x="5" y="150.0" class="ascii-row r19" xml:space="preserve">                              -s:`-*ccccs##sssssc+---=+*ccssssscc**+:.. =%s-                        </text>
+<text x="5" y="157.5" class="ascii-row r20" xml:space="preserve">                              .+-`-=====----=+****+-:==+*csscc*++===-:`.-s*`                        </text>
+<text x="5" y="165.0" class="ascii-row r21" xml:space="preserve">                              =*:`--+*ccsssss##**c*-`:=cs###%%#csc*-:::.:+-+                        </text>
+<text x="5" y="172.5" class="ascii-row r22" xml:space="preserve">                              *+.:=*cs#cc%#s+###sc=:.:+*##ss###****+:`. .=.*.                       </text>
+<text x="5" y="180.0" class="ascii-row r23" xml:space="preserve">                              ==`:-=++*****+***c**=`  ``=+*cc**+-``:``.  ==-.                       </text>
+<text x="5" y="187.5" class="ascii-row r24" xml:space="preserve">                              :=.``::::::::::-=***-`   ..`:--=---:::`.   =*-                        </text>
+<text x="5" y="195.0" class="ascii-row r25" xml:space="preserve">                              `=.``.`........:=*+=-`.  ....`````:::``    ++:                        </text>
+<text x="5" y="202.5" class="ascii-row r26" xml:space="preserve">                              .+`::``...   ..-c*=-:...  .:::`````````.  .-:`                        </text>
+<text x="5" y="210.0" class="ascii-row r27" xml:space="preserve">                               +::-::``.....`=+==-`..    .-::::``````.. `-:.                        </text>
+<text x="5" y="217.5" class="ascii-row r28" xml:space="preserve">                               +=`---:``.. .`=+*ss==-:*s=`:::::::````.. :-:                         </text>
+<text x="5" y="225.0" class="ascii-row r29" xml:space="preserve">                               :c:-=--:``...`-+cs#s++==--`.`:::::::```..+:.                         </text>
+<text x="5" y="232.5" class="ascii-row r30" xml:space="preserve">                                =*===--:````:-=c###cc#s*=-:::::::``````=+                           </text>
+<text x="5" y="240.0" class="ascii-row r31" xml:space="preserve">                                .sc+==--:-+*css###s*sc*sccc*c*=:::::-==+-                           </text>
+<text x="5" y="247.5" class="ascii-row r32" xml:space="preserve">                                 *s**+=--c#%%#sccc*++++***cs###=`:-+++++.                           </text>
+<text x="5" y="255.0" class="ascii-row r33" xml:space="preserve">                                 `scc*+=*%%##ssscc***+++++**s##*`-=+++c=                            </text>
+<text x="5" y="262.5" class="ascii-row r34" xml:space="preserve">                                  -#cc*=+sc*+++++-:::::`````:+s=:-+++c*                             </text>
+<text x="5" y="270.0" class="ascii-row r35" xml:space="preserve">                                   =#s*+=c+::::-=++****=`````-*-:-+*c+                              </text>
+<text x="5" y="277.5" class="ascii-row r36" xml:space="preserve">                                    -#s*+cc+=----*s##s*-::::-*c+==*s*                               </text>
+<text x="5" y="285.0" class="ascii-row r37" xml:space="preserve">                                     :###s##s*+===*sc+=-``:+*ccccss=.`.                             </text>
+<text x="5" y="292.5" class="ascii-row r38" xml:space="preserve">                                      =s%%%%%ssc**cccc***+*ssss#s*-`..c-                            </text>
+<text x="5" y="300.0" class="ascii-row r39" xml:space="preserve">                                    ::-=*#%%%####sssccsccss#%%s+-:::. -s`                           </text>
+<text x="5" y="307.5" class="ascii-row r40" xml:space="preserve">                                   =c.:+++c#%%%%%########%%#s+-:::`.  :s+-.                         </text>
+<text x="5" y="315.0" class="ascii-row r41" xml:space="preserve">                                 .=%+.`-+++*cs#%%%%%@@%%%sc=:::::.    +s++=:                        </text>
+<text x="5" y="322.5" class="ascii-row r42" xml:space="preserve">                              .:=*s%=.``:=++++*ccsssccc*=--:-:`.   . :#s*+++=:.                     </text>
+<text x="5" y="330.0" class="ascii-row r43" xml:space="preserve">                          .:=*cc*c#%=.```.:++===+====------:`.    ...*#c******+*=:.                 </text>
+<text x="5" y="337.5" class="ascii-row r44" xml:space="preserve">                      .:=*s#scc*cs#%*``.....-=+====----=-:`.      ..-#sc*******c##s*=:.             </text>
+<text x="5" y="345.0" class="ascii-row r45" xml:space="preserve">                 .`-+cs###ssccccs##%*:`..... .:-======-:.. ..    ..`s#sc****cccc#%###sc*=:`         </text>
+<text x="5" y="352.5" class="ascii-row r46" xml:space="preserve">             .:=+css####sssscccs####*-:``..  .`:::--:.....      ..`+%#scccccccccc######sssc*+=:.    </text>
+<text x="5" y="360.0" class="ascii-row r47" xml:space="preserve">        `:=+ccssssss###scsscccs####s+-::`. `+##sc****=.        ...-###sccccccccccs##%####ssssccc*+-:</text>
+<text x="5" y="367.5" class="ascii-row r48" xml:space="preserve">  .`-=*ccsssssssssss###%#sscs######c--::`.+%%%########c-      ...`c%#ssssccccccccc#########ssssccccc</text>
+<text x="5" y="375.0" class="ascii-row r49" xml:space="preserve">**csssssssssssssssssss##%%####%%%##c--::`=c#%###ssscccs%s`     ..+%#ssssssscccss##############sssscc</text>
+<text x="5" y="382.5" class="ascii-row r50" xml:space="preserve">#sssssssssssssssssssss#######%%%%##*--:`-==+s%%#sscccs##sc-     :##sssssssss#####sss############ssss</text>
+<text x="5" y="390.0" class="ascii-row r51" xml:space="preserve">#ss######sssssssssss#########%%%%##*:-:-::-=+s%#scccs#c===*=`  `*%#sssssssss#ssssssss##########sssss</text>
+<text x="5" y="397.5" class="ascii-row r52" xml:space="preserve">##s#####ssssssssss###########%%%%##+:::...`-=+#%sccc*=:::=-`::`=##sssssssssssssssssssss#######ssssss</text>
+<text x="5" y="405.0" class="ascii-row r53" xml:space="preserve">#sssss#sssssssssss#%########%%%%%##+.:` ..`:-+#%#ccc:.``:=` .`:*%#ssssssssssssssscsssssssssssssssssc</text>
+<text x="5" y="412.5" class="ascii-row r54" xml:space="preserve">#sssssssssssssssss#%#########%%%%##=.:. ..`::c%#ccs#:.`:-:..`:-##ssssssssssssssscs#ssssssssssssssscc</text>
+<text x="5" y="420.0" class="ascii-row r55" xml:space="preserve">#ssssssssssssssssss#########%%%%#ss=`:. ..``*#%scc##+`::-` .`:*#ssssssssssssssscs#sssssssssssssssccc</text>
+<text x="5" y="427.5" class="ascii-row r56" xml:space="preserve">#ssssssssssssssssss#########%%%%#ss=`:. ...*%%#sccc**::-`. .:-##ssssssssssssssss#ssssssssssccssccccc</text>
+<text x="5" y="435.0" class="ascii-row r57" xml:space="preserve">#ssssssssssssssssss#%#######%%%%#ss=``  ..-%%%#cc***c+:`.. `:c#ssssssssssssssss##ssssssssscccccccccc</text>
+<text x="5" y="442.5" class="ascii-row r58" xml:space="preserve">#sssssssssssssssssss########%%%%#ss=:`  .`s%%%#cc***c*`.`..`=##ssssssssssss#ss##sssssssccccccccccccc</text>
+<text x="5" y="450.0" class="ascii-row r59" xml:space="preserve">#sssssssssssscccccss###s###%%%%%#ss+:` . +%%%#scc****c``: .:c#ssssssssssss#ss##ssssssscccccccccccccc</text>
+<text x="5" y="457.5" class="ascii-row r60" xml:space="preserve">#sssssssssssccccccss###s####%%%%#ss+:. .`s%%%#scc****c::. `=%ssssssssssss#ss##sssssssccccccccccccccc</text>
+<text x="5" y="465.0" class="ascii-row r61" xml:space="preserve">#sssssssscscccccccss#%#s####%%%%#ss*:. .=%%%%#scc*****-:..:s%sssssssssss#ss##ssssssssccccccccccccccc</text>
+<text x="5" y="472.5" class="ascii-row r62" xml:space="preserve">##sssssscsscccccccccs##s####%%%%#sc*:...c%#%##scc*****=` `=%sssssssssssssc###ssssssssscccccccccccccs</text>
+<text x="5" y="480.0" class="ascii-row r63" xml:space="preserve">##ssssccccccccccccccs##ss###%%%%#ss*`. :###%##sccc***c=` :s#sscssssssssscs##sssssssssccccccccccccccs</text>
+<text x="5" y="487.5" class="ascii-row r64" xml:space="preserve">s#ssssccccccccccccccc##ss###%%%%#ss*`  +######sccc****-..=#ssccsssssssscs#ssssssssssccccccccccccccs#</text>
+<text x="5" y="495.0" class="ascii-row r65" xml:space="preserve">s%sssscccccccccccccccs##s###%%%%#sc*. .s#s###ssccc***c-.`s#cccccsssssscs##ssssssssscccccccccccccccs%</text>
+<text x="5" y="502.5" class="ascii-row r66" xml:space="preserve">s%#ssccccccccccccccccs##s###%%%%#sc*. :#ss###ssccc***c-.-#sccccccsssscs##ssssssssscccccccccc*ccccs#%</text>
+<text x="5" y="510.0" class="ascii-row r67" xml:space="preserve">s##ssscccccccccccccccs###s###%%%##cc` +#ss###ssccc***c-.csccccccssssss##sssssssscccccccccccc**cccs%#</text>
+<text x="5" y="517.5" class="ascii-row r68" xml:space="preserve">##%sssccccccccccccccccs%#s###%%%##cc: cssssssssccc***c:=#cccccccssssc##ssssssssccccccccsssscccccs#%s</text>
+<text x="5" y="525.0" class="ascii-row r69" xml:space="preserve">##%#ssssccccccccccccccs##ss##%%%##cc-.sssssssssccc**cc:cscccccccsssc###sssssssssssssssssscccccccs%#c</text>
+<text x="5" y="532.5" class="ascii-row r70" xml:space="preserve">##%#ssssccccccccccccccs#%#s####%##sc=:#ssssssssccc**cc=#cccccccsscc#sssssssssssssssssssccccccccs#%sc</text>
+<text x="5" y="540.0" class="ascii-row r71" xml:space="preserve">##%%#sssccccccsccccccccs%#s#######sc*=%sssssssccc***s#sscccccccscc#sccccccccssccssscccccccccssss%%sc</text>
+<text x="5" y="547.5" class="ascii-row r72" xml:space="preserve">##%%%#ssscscssssssscccss#%#s######sc*c#sssssssccc**cs%scc*cccccccs#ccccccccccccccsssccccsssssss#%#sc</text>
+<text x="5" y="555.0" class="ascii-row r73" xml:space="preserve">##%%%#ssssssssssssssscss#%#s######scc%#ssssssscccccc%#ccccccccccs##ssssssssssssssssssssssssss##%%#ss</text>
+<text x="5" y="562.5" class="ascii-row r74" xml:space="preserve">%%%%%%sssssssssssssssssss%########sc*##sssssssccccc#%scccccccccsssssssssssssssssssssssssssss###%%#ss</text>
+<text x="5" y="570.0" class="ascii-row r75" xml:space="preserve">ss#%%%#ssssssssssssssssss#%#######sc*##sssssssccccs%#cccccccccssssssssssssssssssssssssssss####%%%#ss</text>
+<text x="5" y="577.5" class="ascii-row r76" xml:space="preserve">##%%%%##sssssssssssssssss#%%#######s*s%#sssssscccs#%sccccccccssccsssssssssssssssssssssss#####%%%%#sc</text>
+</svg>
