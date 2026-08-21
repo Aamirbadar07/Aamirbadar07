@@ -1843,16 +1843,21 @@
     {
       "date": "2026-08-20",
       "level": 4,
-      "count": 2
+      "count": 3
+    },
+    {
+      "date": "2026-08-21",
+      "level": 0,
+      "count": 0
     }
   ],
   "stats": {
-    "total": 2,
-    "current_streak": 1,
+    "total": 3,
+    "current_streak": 0,
     "longest_streak": 1,
     "best_day": {
       "date": "2026-08-20",
-      "count": 2
+      "count": 3
     }
   }
 }
