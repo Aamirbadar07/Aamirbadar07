@@ -5,7 +5,7 @@
 
 <br><br>
 
-<h3><code>aamir@github ~ $ whoami</code></h3>
+<h3><code>aamir@github ~ $ Who Am I</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./aamir-ascii.svg" width="370" /></td>
