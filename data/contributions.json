@@ -1812,24 +1812,24 @@
     },
     {
       "date": "2026-08-21",
-      "level": 4,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-08-22",
-      "level": 4,
+      "level": 2,
       "count": 1
     },
     {
       "date": "2026-08-23",
-      "level": 0,
-      "count": 0
+      "level": 4,
+      "count": 2
     }
   ],
   "stats": {
-    "total": 5,
-    "current_streak": 0,
-    "longest_streak": 3,
+    "total": 7,
+    "current_streak": 4,
+    "longest_streak": 4,
     "best_day": {
       "date": "2026-08-20",
       "count": 3
